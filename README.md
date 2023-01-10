@@ -1,0 +1,10 @@
+# Chiou_James_Seetharam_Feminist_Score
+In this project, we examined gender imbalance in 50 Hollywood movies using real-world data of a series of quantitative tests designed by women in the film industry. After careful discussion, our group’s definition of a feminist score was the average of three tests, The Ko Test, The Feldman Score, and the The Villarreal Test. A movie passed the Ko Test passes if “there’s a non-white, female-identifying person in the film who speaks in five or more scene and speaks English”. A movie fails The Villarreal test if the lead female “is introduced as one of three common stereotypes in her first scene: as sexualized; as hardened, expressionless or soulless; or as a matriarch (tired, older or overworked)”, however, movies are able to redeem themselves if the lead female is shown to be three or more of specified conditions such as holding a position of authority in their career, being a mother, making reckless or bad decisions, or choosing a sexual identity of their own/being sexual. Finally, The Feldman Score states that a movie passes the test if the movie scores five or higher depending on seven conditions that either contribute one or two points. It measures many different feminist aspects of a movie, including:
+“2 points for a female writer or director
+1 point for a female composer or director of photography
+1 point for three female producers or three female department heads
+1 point for a crew that’s 50 percent women
+2 points if there’s a female protagonist who determines story outcomes
+2 points if no female characters were victimized, stereotyped or sexualized
+And 1 point if a sex scene shows foreplay before consummation, or if the female characters initiate or reciprocate sexual advances”
+Our feminist score consisted of the average of these specific three tests as we wanted to include examination of the female lead, representation of the cast and crew, and the diversity of the females included to have a more holistic view of the gender/diversity imbalance of all aspects of movies.
